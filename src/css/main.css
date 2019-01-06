@@ -276,3 +276,9 @@ textarea {
         page-break-after: avoid;
     }
 }
+
+1{display: -webkit-flex;
+display: -moz-flex;
+display: -ms-flex;
+display: -o-flex;
+display: flex;}

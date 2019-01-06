@@ -280,3 +280,15 @@ textarea {
 .start{
 	background: red;
 }
+
+1{
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+}
+
+2{
+text-align: center;
+}
